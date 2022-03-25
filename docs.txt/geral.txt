@@ -1,1 +1,13 @@
-O projeto tem como objetivo ter as seguintes informações: nome, imagem,etc.
+Rafaela Albano, Heloisa Bett
+
+Teste Vocacional
+
+Problema:
+Muitos jovens tem difiuldades em saber qual área seguir, esse quis tem como objetivo ajudar a solucionar esse problema.
+
+Justificativa:
+Quando você sabe qual ciência combina mais combina com você, fica bem mais facíl saber qual área profissional mais contigo.
+
+Objetivos:
+-Ajudar a esclarecer sus dúvidas.
+-Ajudar escolher qual profisão e faculdade
